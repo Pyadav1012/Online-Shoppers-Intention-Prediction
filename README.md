@@ -1,1 +1,4 @@
 # Online-Shoppers-Intention-Prediction
+# Description: 
+Online shopping is the activity or action of buying products or services over the Internet. It means going online, landing on a seller’s website, selecting something, and arranging for its delivery. The buyer either pays for the good or service online with a credit or debit card or upon delivery. The term does not only include buying things online but also searching for them online. In other words, I may have been engaged in online shopping but did not buy anything. We are going to predict whether the customer will buy the product or just go window shopping.
+I have used classification algorithms such as Logistic Regression, Random forest, & Clustering algorithm K-Means and train and tested the data with these algorithms. From this, the best model is selected and saved in pkl format.
